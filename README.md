@@ -36,6 +36,7 @@ This is a University class project of Physics II. We have to build a racing car 
 
  - Oscar Escofet - [_OscarEFO_](https://github.com/OscarEFO)
  - Adrian Ponce - [_AdrianGPJ_](https://github.com/AdrianGPJ)
+ - Eric Regalon - [_RegalonaManda_](https://github.com/RegalonaManda)
 
 ## License
 
